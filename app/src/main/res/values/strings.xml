@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tablayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="f1">Chats</string>
+    <string name="f2">Status</string>
+    <string name="f3">Calls</string>
+
+    <string name="tab_with_icons">Tab with icons</string>
+    <string name="vertical_viewpager">Vertical Viewpager</string>
+    <string name="viewpager_transformers">Viewpager Transformers</string>
+
+</resources>

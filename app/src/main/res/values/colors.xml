@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1fa17c</color>
+    <color name="colorPrimaryDark">#1a8f6e</color>
+    <color name="colorAccent">#535152</color>
+
+    <color name="TextColor">#F3A027</color>
+    <color name="bgColor">#706351</color>
+
+
+    <color name="colorPrimarys">#57d6b1</color>
+
+    <color name="colorPrimary1">#FBD1C5</color>
+    <color name="colorPrimaryDark1">#d6aea5</color>
+    <color name="colorAccent1">#535152</color>
+
+    <color name="color1">#424549</color>
+    <color name="color2">#7e455e</color>
+    <color name="color3">#796e25</color>
+    <color name="color4">#59717c</color>
+
+
+    <color name="blue">#1f3d9f</color>
+    <color name="yellowr">#bc1460</color>
+    <color name="yellow">#FECD48</color>
+    <color name="yellow1">#efd739</color>
+    <color name="yellow2">#dec621</color>
+    <color name="yellow3">#FCE443</color>
+    <color name="brown">#B5846D</color>
+    <color name="lightBrown">#E1BBB2</color>
+    <color name="lightOrange1">#FDD1AC</color>
+    <color name="lightOrange2">#F2D1B2</color>
+    <color name="Pink">#EAB2B1</color>
+    <color name="Pink1">#bc1460</color>
+    <color name="Pink2">#c5b1aeae</color>
+    <color name="lightPink">#FBD1C5</color>
+    <color name="lightPink2">#fdc3c2</color>
+    <color name="lightPurple">#BAB5DE</color>
+    <color name="lightLeaden">#D8CAC9</color>
+    <color name="lightBlue">#AAEFFE</color>
+    <color name="bg1">#EADBC6</color>
+
+    <color name="green">#58c288</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#eb080808</color>
+    <color name="lightblack">#FFFAE38D</color>
+    <color name="lightgray">#eb868686</color>
+    <color name="gray">#b7b7b7</color>
+    <color name="bg">#e6e3e3</color>
+
+    <color name="mainbackground">#e4e65e</color>
+    <color name="redcolor">#FB0303</color>
+    <color name="splash">#7c8500</color>
+    <color name="bordercolor">#bc5100</color>
+    <color name="radiobackground">#fff59d</color>
+
+
+</resources>
